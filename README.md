@@ -1,4 +1,4 @@
-<div style="text-align: center;"><a href="https://emoji.gg/emoji/5302-gun-3"><img src="https://cdn3.emoji.gg/emojis/5302-gun-3.gif" width="64px" height="64px" alt="Gun_3"></a></div>
+
 <h1 align="center">Hi 👋, I'm hebm </h1>
 
 - I’m currently learning **C++ & C#**
@@ -17,5 +17,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=h3bm&show_icons=true&locale=en&layout=compact" alt="h3bm" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=h3bm&show_icons=true&locale=en" alt="h3bm" /></p>
-
-<a href="https://emoji.gg/emoji/5302-gun-3"><img src="https://cdn3.emoji.gg/emojis/5302-gun-3.gif" width="64px" height="64px" alt="Gun_3"></a>
