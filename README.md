@@ -1,4 +1,4 @@
-<a href="https://emoji.gg/emoji/5302-gun-3" style="display: block; text-align: center;"><img src="https://cdn3.emoji.gg/emojis/5302-gun-3.gif" width="64px" height="64px" alt="Gun_3" style="margin: 0 auto; display: block;"></a>
+
 <h1 align="center">Hi 👋, I'm hebm </h1>
 
 - I’m currently learning **C++ & C#**
