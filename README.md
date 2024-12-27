@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm hebm</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=h3bm&label=Profile%20views&color=0e75b6&style=flat" alt="h3bm" /> <a href="https://emoji.gg/emoji/5302-gun-3"><img src="https://cdn3.emoji.gg/emojis/5302-gun-3.gif" width="64px" height="64px" alt="Gun_3"></a> </p>
+<h1 align="center">Hi 👋, I'm hebm </h1> <a href="https://emoji.gg/emoji/5302-gun-3"><img src="https://cdn3.emoji.gg/emojis/5302-gun-3.gif" width="64px" height="64px" alt="Gun_3"></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=h3bm&label=Profile%20views&color=0e75b6&style=flat" alt="h3bm" /> </p>
 
 - I’m currently learning **C++ & C#**
 
